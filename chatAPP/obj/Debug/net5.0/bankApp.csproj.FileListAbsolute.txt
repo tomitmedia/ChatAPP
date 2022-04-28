@@ -1,0 +1,38 @@
+/Users/oluwafemi_tom/Projects/bankApp/bankApp/bin/Debug/net5.0/bankApp.deps.json
+/Users/oluwafemi_tom/Projects/bankApp/bankApp/bin/Debug/net5.0/bankApp.runtimeconfig.json
+/Users/oluwafemi_tom/Projects/bankApp/bankApp/bin/Debug/net5.0/bankApp.runtimeconfig.dev.json
+/Users/oluwafemi_tom/Projects/bankApp/bankApp/bin/Debug/net5.0/bankApp.dll
+/Users/oluwafemi_tom/Projects/bankApp/bankApp/bin/Debug/net5.0/ref/bankApp.dll
+/Users/oluwafemi_tom/Projects/bankApp/bankApp/bin/Debug/net5.0/bankApp.pdb
+/Users/oluwafemi_tom/Projects/bankApp/bankApp/obj/Debug/net5.0/bankApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/oluwafemi_tom/Projects/bankApp/bankApp/obj/Debug/net5.0/bankApp.AssemblyInfoInputs.cache
+/Users/oluwafemi_tom/Projects/bankApp/bankApp/obj/Debug/net5.0/bankApp.AssemblyInfo.cs
+/Users/oluwafemi_tom/Projects/bankApp/bankApp/obj/Debug/net5.0/bankApp.csproj.CoreCompileInputs.cache
+/Users/oluwafemi_tom/Projects/bankApp/bankApp/obj/Debug/net5.0/bankApp.dll
+/Users/oluwafemi_tom/Projects/bankApp/bankApp/obj/Debug/net5.0/ref/bankApp.dll
+/Users/oluwafemi_tom/Projects/bankApp/bankApp/obj/Debug/net5.0/bankApp.pdb
+/Users/oluwafemi_tom/Projects/bankApp/bankApp/obj/Debug/net5.0/bankApp.genruntimeconfig.cache
+/Users/oluwafemi_tom/Projects/bankApp/bankApp/obj/Debug/net5.0/bankApp.csproj.AssemblyReference.cache
+/Users/oluwafemi_tom/Projects/bankApp/bankApp copy/obj/Debug/net5.0/bankApp.csproj.AssemblyReference.cache
+/Users/oluwafemi_tom/Projects/bankApp/bankApp copy/obj/Debug/net5.0/bankApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/oluwafemi_tom/Projects/bankApp/bankApp copy/obj/Debug/net5.0/bankApp.AssemblyInfoInputs.cache
+/Users/oluwafemi_tom/Projects/bankApp/bankApp copy/obj/Debug/net5.0/bankApp.AssemblyInfo.cs
+/Users/oluwafemi_tom/Projects/bankApp/bankApp copy/obj/Debug/net5.0/bankApp.csproj.CoreCompileInputs.cache
+/Users/oluwafemi_tom/Projects/bankApp/bankApp copy/obj/Debug/net5.0/bankApp.dll
+/Users/oluwafemi_tom/Projects/bankApp/bankApp copy/obj/Debug/net5.0/ref/bankApp.dll
+/Users/oluwafemi_tom/Projects/bankApp/bankApp copy/obj/Debug/net5.0/bankApp.pdb
+/Users/oluwafemi_tom/Documents/bankApp copy/bin/Debug/net5.0/bankApp.deps.json
+/Users/oluwafemi_tom/Documents/bankApp copy/bin/Debug/net5.0/bankApp.runtimeconfig.json
+/Users/oluwafemi_tom/Documents/bankApp copy/bin/Debug/net5.0/bankApp.runtimeconfig.dev.json
+/Users/oluwafemi_tom/Documents/bankApp copy/bin/Debug/net5.0/bankApp.dll
+/Users/oluwafemi_tom/Documents/bankApp copy/bin/Debug/net5.0/ref/bankApp.dll
+/Users/oluwafemi_tom/Documents/bankApp copy/bin/Debug/net5.0/bankApp.pdb
+/Users/oluwafemi_tom/Documents/bankApp copy/obj/Debug/net5.0/bankApp.csproj.AssemblyReference.cache
+/Users/oluwafemi_tom/Documents/bankApp copy/obj/Debug/net5.0/bankApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/oluwafemi_tom/Documents/bankApp copy/obj/Debug/net5.0/bankApp.AssemblyInfoInputs.cache
+/Users/oluwafemi_tom/Documents/bankApp copy/obj/Debug/net5.0/bankApp.AssemblyInfo.cs
+/Users/oluwafemi_tom/Documents/bankApp copy/obj/Debug/net5.0/bankApp.csproj.CoreCompileInputs.cache
+/Users/oluwafemi_tom/Documents/bankApp copy/obj/Debug/net5.0/bankApp.dll
+/Users/oluwafemi_tom/Documents/bankApp copy/obj/Debug/net5.0/ref/bankApp.dll
+/Users/oluwafemi_tom/Documents/bankApp copy/obj/Debug/net5.0/bankApp.pdb
+/Users/oluwafemi_tom/Documents/bankApp copy/obj/Debug/net5.0/bankApp.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+/Users/oluwafemi_tom/Documents/bankApp copy/bin/Debug/net5.0/chatApp.deps.json
+/Users/oluwafemi_tom/Documents/bankApp copy/bin/Debug/net5.0/chatApp.runtimeconfig.json
+/Users/oluwafemi_tom/Documents/bankApp copy/bin/Debug/net5.0/chatApp.runtimeconfig.dev.json
+/Users/oluwafemi_tom/Documents/bankApp copy/bin/Debug/net5.0/chatApp.dll
+/Users/oluwafemi_tom/Documents/bankApp copy/bin/Debug/net5.0/ref/chatApp.dll
+/Users/oluwafemi_tom/Documents/bankApp copy/bin/Debug/net5.0/chatApp.pdb
+/Users/oluwafemi_tom/Documents/bankApp copy/obj/Debug/net5.0/chatApp.csproj.AssemblyReference.cache
+/Users/oluwafemi_tom/Documents/bankApp copy/obj/Debug/net5.0/chatApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/oluwafemi_tom/Documents/bankApp copy/obj/Debug/net5.0/chatApp.AssemblyInfoInputs.cache
+/Users/oluwafemi_tom/Documents/bankApp copy/obj/Debug/net5.0/chatApp.AssemblyInfo.cs
+/Users/oluwafemi_tom/Documents/bankApp copy/obj/Debug/net5.0/chatApp.csproj.CoreCompileInputs.cache
+/Users/oluwafemi_tom/Documents/bankApp copy/obj/Debug/net5.0/chatApp.dll
+/Users/oluwafemi_tom/Documents/bankApp copy/obj/Debug/net5.0/ref/chatApp.dll
+/Users/oluwafemi_tom/Documents/bankApp copy/obj/Debug/net5.0/chatApp.pdb
+/Users/oluwafemi_tom/Documents/bankApp copy/obj/Debug/net5.0/chatApp.genruntimeconfig.cache
